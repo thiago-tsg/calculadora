@@ -1,7 +1,6 @@
 # calculadora
-Clicando neste <a href="https://thiago-tsg.github.io/calculadora/html" target="_blank">link</a>, você será direcionado para visualizar este projeto, que se trata de uma calculadora que faz operações matemáticas simples (adição, subtração, divisão e multiplicação).
+<strong>
+Ao clicar neste <a href="https://thiago-tsg.github.io/calculadora/html" target="_blank">link</a>, você será redirecionado para visualizar um projeto de calculadora que realiza operações matemáticas simples, como adição, subtração, divisão e multiplicação.<br><br>
 
-Este projeto é totalmente responsivo, e sua estrutura é formada por JavaScript, HTML5 e CSS3.
-As tags são utilizadas com foco na sintaxe correta e na otimização para mecanismos de busca (SEO).
-
-Resumo: Calculadora que faz operações matemáticas simples (adição, subtração, divisão e multiplicação).
+Este projeto é totalmente responsivo, utilizando JavaScript, HTML5 e CSS3 em sua estrutura. As tags são empregadas com foco na sintaxe correta e na otimização para mecanismos de busca (SEO).<br><br>
+</strong>
